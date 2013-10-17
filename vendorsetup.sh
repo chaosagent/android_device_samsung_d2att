@@ -1,0 +1,3 @@
+add_lunch_combo full_d2att-userdebug
+add_lunch_combo custom_d2att-userdebug
+add_lunch_combo custom_d2att-eng
